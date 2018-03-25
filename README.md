@@ -1,5 +1,5 @@
 # Max-Jitter
-<h1 Max Jitter tools for video mapping.\>
+<h1 Max Jitter tools for video mapping. /h1>
 
 Here are some tools I created in Max Jitter. They should work from Max 6 on Windows and Mac. 
 I used only native Max objects and JavaScript. The JavaScript objects have pattrstorage support. 
