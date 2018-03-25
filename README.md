@@ -9,20 +9,20 @@ But maybe they are a good starting point for someone else.
 
 Masking
 
-![alt-text](https://github.com/DFortmann/Max-Jitter/raw/master/Masking/mask.png)
+<img src=https://github.com/DFortmann/Max-Jitter/raw/master/Masking/mask.png alt="Masking" width=50% height=50%>
 
 This is a masking tool, that allows drawing arbitrary vector shapes using the jit.mgraphics object.
 
 
 Warping
 
-![alt text](https://github.com/DFortmann/Max-Jitter/raw/master/Warping/warp.png)
+<img src=https://github.com/DFortmann/Max-Jitter/raw/master/Warping/warp.png alt="Warping" width=50% height=50%>
 
 This is a gui element for the jit.gl.nurbs object, that allows easy texture warping.
 
 
 Keystone
 
-![alt-text-](https://github.com/DFortmann/Max-Jitter/raw/master/Keystone/keystone.png)
+<img src=https://github.com/DFortmann/Max-Jitter/raw/master/Keystone/keystone.png alt="Keystone" width=50% height=50%>
 
 This is a gui element for the jit.gl.cornerpin object.
