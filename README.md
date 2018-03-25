@@ -8,11 +8,11 @@ But maybe they are a good starting point for someone else.
 
 Masking:
 
-file:///C:/Users/david/Documents/Website/assets/pics/mask.png
+
 
 This is a masking tool, that allows drawing arbitrary vector shapes using the jit.mgraphics object.
 
 Warping:
 
-file:///C:/Users/david/Documents/Website/assets/pics/warp.png
+![alt text](https://github.com/DFortmann/Max-Jitter/raw/master/Warping/warp.png)
 
